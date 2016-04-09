@@ -2,9 +2,6 @@
 title: "Codebook Getting and Cleaning Data Course Project"
 author: "Paolo Moretti"
 date: "2016-04-09"
-output:
-  html_document:
-    keep_md: yes
 ---
 
 ## Project Description ##
